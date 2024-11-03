@@ -797,7 +797,7 @@ div.ppt {
 	text-align:center;
 	padding:40px 0px;
 }
-	#header .header-content p {
+	#header .header-content h1 {
 		font-family:Roboto, Arial, sans-serif;
 		font-size:15px;
 		line-height:21px;
@@ -2887,9 +2887,9 @@ div.ppt {
 	color:#FFF;
 	border-radius:50px;
 	text-align:center;
-  font-size:30px;
+ 	font-size:30px;
 	box-shadow: 2px 2px 3px #999;
-  z-index:100;
+ 	z-index:100;
 }
 
 .my-float{
